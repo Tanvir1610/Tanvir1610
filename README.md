@@ -51,7 +51,7 @@ I'm a B.Tech student enthusiastic about web development, machine learning, and d
 
 - 📧 Email: [vhoratanvir1610@gmail.com](mailto:vhoratanvir1610@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/tanvirahmadvhora](https://www.linkedin.com/tanvirahmadvhora/)  
-- 🌐 Portfolio: [tanvir-vhora.vercel.app](https://tanvir-vhora.vercel.app/)  
+- 🌐 Portfolio: [tanvir-vhora.vercel.app](https://protfolio-vhoratanvir.netlify.app/)  
 - 💻 GitHub: [github.com/Tanvir1610](https://www.github.com/Tanvir1610)
 
 ---

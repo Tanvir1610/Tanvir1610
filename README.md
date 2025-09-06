@@ -1,6 +1,6 @@
 # Tanvir Ahmad Vhora – Portfolio
 
-Welcome to my portfolio repository! I’m a passionate and driven **Front-End Developer** currently pursuing a Bachelor of Technology in Information Technology at G H Patel College of Engineering & Technology, Anand, Gujarat. This repository highlights my skills, projects, and journey in the tech world.
+Welcome to my portfolio repository! I’m a passionate and driven **Full-Stack Developer** currently pursuing a Bachelor of Technology in Information Technology at G H Patel College of Engineering & Technology, Anand, Gujarat. This repository highlights my skills, projects, and journey in the tech world.
 
 ## 🚀 About Me
 
